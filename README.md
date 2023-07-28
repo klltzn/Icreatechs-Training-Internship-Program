@@ -1,7 +1,7 @@
 # Icreatechs-Training-Internship-Program
 A shared repository that serves as a centralized hub for all the tasks and outputs generated during the Icreatechs Training Internship program.
 
-#### Group’s Discord Server: https://bit.ly/3Dz61gs
+#### Group’s Discord Server: https://bit.ly/3O6U5Y2
 #### Group's Learning Resource: https://bit.ly/3O8Ndtj
 
 ### Leader
